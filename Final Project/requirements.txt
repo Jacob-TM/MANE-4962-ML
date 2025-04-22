@@ -1,0 +1,9 @@
+google-colab==1.0.0
+pandas==2.2.2
+numpy==2.0.2
+matplotlib==3.10.0
+tensorflow==2.18.0
+scikit-learn==1.6.1
+kagglehub==0.3.11
+requests==2.32.3
+beautifulsoup4==4.13.4
