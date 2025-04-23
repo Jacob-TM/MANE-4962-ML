@@ -9,9 +9,9 @@ This project explores the use of Long Short-Term Memory (LSTM) neural networks f
 
 - **Stock Price Data**: Daily historical price and volume data for NVIDIA (NVDA) and Procter & Gamble (PG) from 2015 to 2025, collected from the NASDAQ website.
 - **News Headlines**: Thousands of finance-related headlines from 2015–2025, compiled from public Kaggle datasets and custom web scraping of NVIDIA's official news archive. Headlines are paired by date with stock price data.
-SOURCE1: https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests
-SOURCE2: https://nvidianews.nvidia.com/news
-SOURCE3: https://www.nasdaq.com/market-activity
+#### SOURCE 1: https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests
+#### SOURCE 2: https://nvidianews.nvidia.com/news
+#### SOURCE 3: https://www.nasdaq.com/market-activity
 
 ## Model/Method Overview
 
@@ -34,19 +34,15 @@ SOURCE3: https://www.nasdaq.com/market-activity
 
 ## Results
 ### NVIDIA-Training
-Loss (MSE): 1.566e-4
-MAE: 0.0074
+Loss (MSE): 1.566e-4, MAE: 0.0074
 
 ### NVIDIA-Validation
-Loss (MSE): 0.0796
-MAE: 0.1831
+Loss (MSE): 0.0796, MAE: 0.1831
 
 ### PG-Training
-Loss (MSE): 2.110e-4
-MAE: 0.00981
+Loss (MSE): 2.110e-4, MAE: 0.00981
 
 ### PG-Validation
-Loss (MSE): 2.763e-4
-MAE: 0.01174
+Loss (MSE): 2.763e-4, MAE: 0.01174
 # 
 *For any questions or suggestions, feel free to contact Jacob Mitchell @ jacobmitchell8370@gmail.com.*
