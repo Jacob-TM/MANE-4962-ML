@@ -33,22 +33,20 @@ SOURCE3: https://www.nasdaq.com/market-activity
 5. **Review results and visualizations**, which are saved in the \results directory.
 
 ## Results
-# NVIDIA-Training
+### NVIDIA-Training
 Loss (MSE): 1.566e-4
 MAE: 0.0074
 
-# NVIDIA-Validation
+### NVIDIA-Validation
 Loss (MSE): 0.0796
 MAE: 0.1831
 
-
-# PG-Training
+### PG-Training
 Loss (MSE): 2.110e-4
 MAE: 0.00981
 
-# PG-Validation
+### PG-Validation
 Loss (MSE): 2.763e-4
 MAE: 0.01174
-# 
 # 
 *For any questions or suggestions, feel free to contact Jacob Mitchell @ jacobmitchell8370@gmail.com.*
