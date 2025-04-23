@@ -33,6 +33,7 @@ This project explores the use of Long Short-Term Memory (LSTM) neural networks f
 5. **Review results and visualizations**, which are saved in the \results directory.
 
 ## Results
+#### These are based on the model_v1 which was determined to have the best results.
 ### NVIDIA-Training
 Loss (MSE): 1.566e-4, MAE: 0.0074
 
