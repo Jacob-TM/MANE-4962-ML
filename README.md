@@ -1,1 +1,1 @@
-Files relating to MANE-4962 Machine Learning for Engineers class at RPI
+Files relating to MANE-4962 Machine Learning Engineering class at RPI
